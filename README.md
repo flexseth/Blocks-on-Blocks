@@ -1,5 +1,6 @@
 # blocks-on-blocks
 Lotsa blocks to dev. Made to demonstrate how to do WordPress development with Git.
+This README file is made to link to the various projects and to provide direction on how to compile and work on the projects. This is meant to be a collaborative effort and expertise into distributed work, using Git, and doing cutting-edge stuff with WordPress.
 
 
 ## Amazon Price Check widget or Gutenberg Block
@@ -91,6 +92,9 @@ for Twitter Sharer - end of post...?
 ## Multiple Blocks Plugin Boilerplate
 A starting point for creating 3 blocks with the standard scripts, and instructions.
 - Good first commit for Seth
+Multiple Blocks 
+https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
+12 minutes in
 
 
 ## Slotfill Sample - An actual use case
@@ -103,3 +107,21 @@ Shows JavaScript errors on the page. Inspired by the convo on Twitch.
 Uses the console logger block to function (innerblocks?)
 
 https://www.twitch.tv/videos/2010095349?t=1h14m59s
+
+Sentry.io - record React errors
+https://docs.sentry.io/platforms/javascript/guides/react/
+
+
+
+## Why to use a static or dynamic block
+
+## Explaining Github block
+Show how to get part of WordPress Core, change 
+
+## Custom Content Block
+Save a post with custom post types
+
+## Music Quote block
+Quote, Band Name, Link to song/video etc
+Affiliate links
+
