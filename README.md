@@ -15,11 +15,11 @@ Series of blocks showcasing a brand identity, with with sample marketing materia
 - Create a page
 - Add Brand board
 - Create admin page or link
-### TODO: upload brand-board.png
+*TODO*: upload brand-board.png
 
 ## Hero with WordPress Form
 Popular amongst signup websites. Great for non-profit organizations, lead generation, the example is for a past political candidate. 
-### TODO: upload Image of lumberjack
+- *TODO*: upload Image of lumberjack
 
 ## Markdown block
 Display the info in this block as Markdown. Allow use of RichText editor.
@@ -55,16 +55,16 @@ Include basic contact info, amount, close date, status. Allow status change to a
 
 ## Page intro / paywall
 Article Teaser (read more)
-{include notes}
-When my page has more than 2 paragraphs on it, fade bottom out.
-Selector info from Wes Bos's podcast: 21:14 - Quantity Queries for CSS
+- {include notes}
+- When my page has more than 2 paragraphs on it, fade bottom out.
+- Selector info from Wes Bos's podcast: 21:14 - Quantity Queries for CSS
 https://syntax.fm/714?t=0:21:14
 - Upload screenshot from notes
 
 
 ## Account Creation block - multi step
-Add extra fields when a user signs up.
-Possibly using WordPress Core forms.
+- Add extra fields when a user signs up.
+- Possibly using WordPress Core forms.
 
 ## Timer and time logger
 Log time. Click to start, stop, record or reset (secondary/small ink only)
@@ -114,8 +114,8 @@ WordPress block that allows you to use your camera to take a picture of somethin
 
 ## 3.0 Plugin ideas
 Visual Slot Fill - Visual Hooks to display Slot Fills
-Uses hooks or HTML Tag processor
-This is a plugin.
+- Uses hooks or HTML Tag processor
+- This is a plugin.
 
 
 ## Twitter Sharer
@@ -130,9 +130,9 @@ Remove text from "X" (Twitter) share button using Block Hooks
 ## Multiple Blocks Plugin Boilerplate
 A starting point for creating 3 blocks with the standard scripts, and instructions.
 - Good first commit for Seth
-Multiple Blocks 
+- Multiple Blocks 
 https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
-12 minutes in
+- 12 minutes in
 
 
 ## Slotfill Sample - An actual use case
@@ -152,7 +152,7 @@ Show how to get part of WordPress Core, change and create a pull request.
 Save a post with custom post types
 
 ## Music Quote block
-Quote, Band Name, Link to song/video etc
-Affiliate links
-Song embed
+- Quote, Band Name, Link to song/video etc
+- Affiliate links
+- Song embed
 
