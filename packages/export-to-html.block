@@ -1,0 +1,13 @@
+Insert this block into a page to save everything to this point as an HTML page. 
+- Export content
+- Export styles
+- Export images
+- Save to folder
+
+Showcases using file operations and a package to create a page based on source code to this point.
+
+Also can be used to cut out page sections (think taking a screenshot)
+
+Insert any place in the page]
+
+Uses Slotfill

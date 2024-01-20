@@ -20,6 +20,8 @@ Series of blocks showcasing a brand identity, with with sample marketing materia
 ## Hero with WordPress Form
 Popular amongst signup websites. Great for non-profit organizations, lead generation, the example is for a past political candidate. 
 - *TODO*: upload Image of lumberjack
+![image](./images/duffy.png)
+
 
 ## Markdown block
 Display the info in this block as Markdown. Allow use of RichText editor.
