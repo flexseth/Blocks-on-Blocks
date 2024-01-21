@@ -138,8 +138,8 @@ https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
 
 
 ## Slotfill Sample - An actual use case
-Pick a slot to come in for an interview.
-
+Bingo card
+![image](./images/bingo.jpg)
 
 
 ## Why to use a static or dynamic block
@@ -158,3 +158,4 @@ Save a post with custom post types
 - Affiliate links
 - Song embed
 
+## Figma embed block
