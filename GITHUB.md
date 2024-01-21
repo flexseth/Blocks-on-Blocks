@@ -9,7 +9,7 @@ Better command line prompts when using Github
 
 Extras
 - Enable branch and command completion in Github
-- Github short commands - Ask Ryan about this package
+- Github CLI usage
 - Sourcetree and visualizations
 - Sample / demo repo to show how to use Git
 
