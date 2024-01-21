@@ -4,6 +4,7 @@ This README file is made to link to the various projects and to provide directio
 
 
 ### Configuration for Github (Collaboration)
+*TODO* Build out info pages
 - Install Git suggestions
 - Helpful VS Code extensions
 - GUIs for Git
@@ -64,15 +65,6 @@ Possibly using WordPress Core forms.
 Log time. Click to start, stop, record or reset (secondary/small ink only)
 Text field for project description.
 Some way to link it to a project (Freelancer theme)
-
-## Generate a PDF from this page - block
-Generate PDF
-export PDF wordpress block for gutenberg
-
-jsPDF library
-https://github.com/parallax/jsPDF
-- Q: How is this different from a printable stylesheet?
-- A: It can handle dynamic data better..??
 
 
 ## Console log block
@@ -145,6 +137,3 @@ Save a post with custom post types
 Quote, Band Name, Link to song/video etc
 Affiliate links
 
-# Plugins
-## Gutenberg Block Checker Plugin
-Run this to check your block for all best practices for block dev, plugin and theme guidelines
