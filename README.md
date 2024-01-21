@@ -1,6 +1,16 @@
 # blocks-on-blocks
 Lotsa blocks to dev. Made to demonstrate how to do WordPress development with Git.
+This README file is made to link to the various projects and to provide direction on how to compile and work on the projects. This is meant to be a collaborative effort and expertise into distributed work, using Git, and doing cutting-edge stuff with WordPress.
 
+
+### Configuration for Github (Collaboration)
+- Install Git suggestions
+- Helpful VS Code extensions
+- GUIs for Git
+- Git cheat sheet
+
+
+### Blocks on Blocks
 
 ## Amazon Price Check widget or Gutenberg Block
 
@@ -41,6 +51,10 @@ Include basic contact info, amount, close date, status. Allow status change to a
 ## Page into / paywall
 Article Teaser (read more)
 {include notes}
+When my page has more than 2 paragraphs on it, fade bottom out.
+Selector info from Wes Bos's podcast: 21:14 - Quantity Queries for CSS
+https://syntax.fm/714?t=0:21:14
+
 
 ## Account Creation block - multi step
 Add extra fields when a user signs up.
@@ -87,10 +101,14 @@ https://www.icloud.com/notes/08bFoVDbx3KzyjGmUZYjXQESg
 
 ## Block Hooks?
 for Twitter Sharer - end of post...?
+Remove text from "X" (Twitter) share button using Block Hooks
 
 ## Multiple Blocks Plugin Boilerplate
 A starting point for creating 3 blocks with the standard scripts, and instructions.
 - Good first commit for Seth
+Multiple Blocks 
+https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
+12 minutes in
 
 
 ## Slotfill Sample - An actual use case
@@ -103,3 +121,30 @@ Shows JavaScript errors on the page. Inspired by the convo on Twitch.
 Uses the console logger block to function (innerblocks?)
 
 https://www.twitch.tv/videos/2010095349?t=1h14m59s
+
+Sentry.io - record React errors
+https://docs.sentry.io/platforms/javascript/guides/react/
+https://www.youtube.com/watch?v=Kz-SudCTdu4&themeRefresh=1
+
+
+
+
+## Why to use a static or dynamic block
+Include this block on a page to make sure all blocks are correctly created dynamically or statically.
+
+- Improves page loads with best rendering
+- Included in Gutenberg Block Checker Plugin
+
+## Explaining Github block
+Show how to get part of WordPress Core, change 
+
+## Custom Content Block
+Save a post with custom post types
+
+## Music Quote block
+Quote, Band Name, Link to song/video etc
+Affiliate links
+
+# Plugins
+## Gutenberg Block Checker Plugin
+Run this to check your block for all best practices for block dev, plugin and theme guidelines
