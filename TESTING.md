@@ -31,7 +31,7 @@ Let me know if this works for you too :slightly_smiling_face:
 
 https://wordpress.slack.com/archives/C02RQBWTW/p1705804371697959?thread_ts=1705803630.337989&cid=C02RQBWTW
 
-*TODO:* Provide instructions/modifications for this configuration when using wp-env or wp-now specifically.
+*NOTE:* This instructions are for using the `wp-env` package
 
 # Coding Standards
 [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
@@ -39,7 +39,7 @@ https://wordpress.slack.com/archives/C02RQBWTW/p1705804371697959?thread_ts=17058
 
 
 # Accessability
-See Princeton's [Editoria11y] accessability checker plugin(https://wordpress.org/plugins/editoria11y-accessibility-checker/)
+See Princeton's [Editoria11y](https://wordpress.org/plugins/editoria11y-accessibility-checker/) accessability checker plugin
 
 # Peer Review
 See [Peer Review page](./CODEREVIEW.md)
