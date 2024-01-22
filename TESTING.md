@@ -35,6 +35,7 @@ https://wordpress.slack.com/archives/C02RQBWTW/p1705804371697959?thread_ts=17058
 
 # Coding Standards
 [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
+[WPCS Github](https://github.com/WordPress/WordPress-Coding-Standards)
 
 
 # Accessability
@@ -44,4 +45,6 @@ See Princeton's [Editoria11y] accessability checker plugin(https://wordpress.org
 See [Peer Review page](./CODEREVIEW.md)
 
 # Submission Guidelines checklist
-*TODO:* Create checklist
+
+## Linting PHP and WordPress Core Standards
+Check out Ollie - by Mike McAllister's - to see an [example Composer file](https://github.com/OllieWP/ollie?tab=readme-ov-file#developer-notes) that can lint for WP standards.
