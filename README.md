@@ -1,5 +1,44 @@
-# blocks-on-blocks
-Lotsa blocks to dev. Made to demonstrate how to do WordPress development with Git.
+#### Blocks on Blocks
+
+<table style="background-color: #000">
+<tr>
+<th> About this repo </th>
+<th> Contributing </th>
+</tr>
+<tr>
+<td style="color: #fff">
+
+<pre>
+collaborative
+JavaScript
+block development
+</pre>
+</td>
+<td style="color:#f1f1f1">
+
+
+[PLUGINS](./PLUGINS.md)
+
+BLOCKS
+
+Using Git with this repo
+
+[CONTRIBUTING](./CONTRIBUTING.md)
+
+[CODE REVIEW](./CODEREVIEW.md)
+
+[LICENSE](./LICENSE)
+
+[TESTING](./TESTING.md)
+
+
+</td>
+</tr>
+</table>
+
+# Blocks on Blocks
+Lots of blocks to develop. Made to demonstrate how to do WordPress development with Git. Some workflow stuff included here and there.
+
 This README file is made to link to the various projects and to provide direction on how to compile and work on the projects. This is meant to be a collaborative effort and expertise into distributed work, using Git, and doing cutting-edge stuff with WordPress.
 
 
