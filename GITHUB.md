@@ -1,5 +1,6 @@
 ## Boilerplate Github setup - quality of life
 - VS Code extensions
+- Github repository visualization
 - Shell prompt themes for Git
 - Code completion
 - Automated testing
@@ -8,16 +9,22 @@
 [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - shows Github activity in VS Code
 This extension helps to better manage your repository and commit history, branches etc inside VS Code.
 
-# Github repository visualization
+### Visual commit history with Gitlens
+![image](./images/gitlens-commit-graph.png)
+To access this panel, click on Gitlens in the main navigation in VS Code and click Commit Graph
+
+
 # Sourcetree
 ![image](./images/sourcetree-this-repo.png)
-So far I've found the user interface to work well with Sourcetree, here's the project as of this commit:
+So far I've found the user interface to work well with Sourcetree, here's the project as of this commit
 
-Gitlens has a paid extension for VS Code that allows for repo visual view inside the pane where the command line is.
+[Download Sourcetree](https://www.sourcetreeapp.com/)
+
 When I first grasped Git (re: that "Aha!" moment) - I used Sourcetree on one monitor and VS Code in the other. 
 Watching the changes show up in real time, uncommited files, what it looked like when branches changed seem to help me understand how Git worked.
+I also used Sourcetree to switch branches to add ideas for new blocks, update documentation, etc. It helped to have both windows open.
 
-Gitlens has a visual interface for VS Code, but it is a paid feature, so that's why I am using [Sourcetree](https://www.sourcetreeapp.com/).
+Gitlens has a visual interface for VS Code, but it is a paid feature, so that's why I am using 
 Also because it is built by Atlassan which is a front-runner in the SDLC SaaS industry.
 
 
@@ -46,5 +53,6 @@ https://inspirnathan.com/posts/22-install-ohmyzsh-with-agnoster-theme/
 - Intro to Git [video tutorial](https://www.youtube.com/watch?v=8JJ101D3knE) (1 hour)
 
 # Todo
-- Enable branch and command completion in Github: CLI
+- Add instructions for installing better Git command promps
+- Instructions for branch and command completion in Github: CLI
 - Sample / demo repo to show how to use Git
