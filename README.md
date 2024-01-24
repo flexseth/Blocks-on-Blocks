@@ -137,25 +137,35 @@ https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
 - 12 minutes in
 
 
-## Slotfill Sample - An actual use case
-Bingo card
+## Slotfill Examples
+- Bingo card
 ![image](./images/bingo.jpg)
+- NFL picks/pool
+
+### Simple Slot Machine
+- Showcases how to use animations
+- Showcases slot fill
+- Showcases how to 
 
 
-## Why to use a static or dynamic block
-Better explanation (docs?) for static vs. dynamic blocks.
-Examples and use cases.
+## When to use a static or dynamic block
+- Better explanation (docs?) for static vs. dynamic blocks.
+- Examples and use cases.
 
-## Explaining Github block
+## Contributing to Core block
 Show how to get part of WordPress Core, change and create a pull request.
 - Word is mispelled in core..?
+- See [CONTRIBUTING](./CONTRIBUTING.md) for notes on starting point
 
-## Custom Content Block
+## Custom Post Type Block
 Save a post with custom post types
+
+## Using Custom Fields with a block
+- Open Github Issue in Gutenberg: Custom fields 🔗 Blocks [#51373](https://github.com/WordPress/gutenberg/issues/51373) 
 
 ## Music Quote block
 - Quote, Band Name, Link to song/video etc
-- Affiliate links
 - Song embed
+- Affiliate links
 
 ## Figma embed block
