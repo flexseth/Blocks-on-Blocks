@@ -51,6 +51,7 @@ https://inspirnathan.com/posts/22-install-ohmyzsh-with-agnoster-theme/
 - Github Actions for a Healthy Repository - [by Yoast](https://joost.blog/github-actions-wordpress/)
 - Github Cheat Sheet [PDF download](./assets/git-cheat-sheat.pdf)
 - Intro to Git [video tutorial](https://www.youtube.com/watch?v=8JJ101D3knE) (1 hour)
+- Git merge [tutorial video](https://www.youtube.com/watch?v=0chZFIZLR_0) (4 minutes with good visualization)
 
 # Todo
 - Add instructions for installing better Git command promps
