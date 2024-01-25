@@ -12,3 +12,10 @@ If you want to request code review, you can either make a comment here or submit
 - Slack group
 - Contributing to this repo
 - Coding standards
+
+# Code Review
+Understanding code review in [feature branches](https://youtu.be/Q1kHG842HoI?si=0b0FbRYpbuxnyV32&t=1677) (video tutorial)
+- Create feature branch
+- Upload to Github
+- Create a pull request
+- Merge feature branch into master
