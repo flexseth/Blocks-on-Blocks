@@ -21,10 +21,13 @@ So far I've found the user interface to work well with Sourcetree, here's the pr
 [Download Sourcetree](https://www.sourcetreeapp.com/)
 
 When I first grasped Git (re: that "Aha!" moment) - I used Sourcetree on one monitor and VS Code in the other. 
+
 Watching the changes show up in real time, uncommited files, what it looked like when branches changed seem to help me understand how Git worked.
+
 I also used Sourcetree to switch branches to add ideas for new blocks, update documentation, etc. It helped to have both windows open.
 
-Gitlens has a visual interface for VS Code, but it is a paid feature, so that's why I am using 
+Gitlens has a visual interface for VS Code, but it is a paid feature, so that's why I am using Sourcetree.
+
 Also because it is built by Atlassan which is a front-runner in the SDLC SaaS industry.
 
 
