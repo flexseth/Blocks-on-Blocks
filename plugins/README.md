@@ -7,19 +7,22 @@ Block Plugins...
 
 
 ## Feature Block Plugin - Examples
- 
+Feature block plugins modify the business logic of a block.
+
 - @ tag a Twitter or Slack profile inline (extends RichText)
 - Tweet block
 - Create a PDF from block(s)
 - Gravity Forms focus on singular input
 - [Create a Custom Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/platform/custom-block-editor/)
-- [Add icons to button blocks](https://github.com/ndiego/enable-button-icons) (by Nick Diego) 
 
 
 ## Design Block Plugin - Examples
+Feature block plugins modify the look or presentation of a block.
 
 - Skins: Easily change the look of the WP comment form
 - [Display image metadata](./feature/extraction/metadata-from-image/README.md) (EXIF) on attachment page
+- Insert External link button for RichText editor - [Storybook](https://wordpress.github.io/gutenberg/?path=/docs/components-externallink--docs) 
+- [Add icons to button blocks](https://github.com/ndiego/enable-button-icons) (by Nick Diego) 
 
 ## Limitations
 See the Block Specific Guidelines below, but one major limitation: 
