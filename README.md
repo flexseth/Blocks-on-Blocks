@@ -185,38 +185,40 @@ Multiple Blocks
 https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
 12 minutes in
 
+## Slotfill Examples
+- Bingo card
+![image](./images/bingo.jpg)
+- NFL picks/pool
 
-## Slotfill Sample - An actual use case
-Slotfill in notes
-<image>
-
-## Error block
-Shows JavaScript errors on the page. Inspired by the convo on Twitch.
-
-Uses the console logger block to function (innerblocks?)
-
-https://www.twitch.tv/videos/2010095349?t=1h14m59s
-
-Sentry.io - record React errors
-https://docs.sentry.io/platforms/javascript/guides/react/
-https://www.youtube.com/watch?v=Kz-SudCTdu4&themeRefresh=1
-
+### Simple Slot Machine
+- Showcases how to use animations
+- Showcases slot fill
+- Showcases how to 
 
 
 
 ## Why to use a static or dynamic block
-Include this block on a page to make sure all blocks are correctly created dynamically or statically.
-
-- Improves page loads with best rendering
-- Included in Gutenberg Block Checker Plugin
+Better explanation (docs?) for static vs. dynamic blocks.
+Examples and use cases.
 
 ## Explaining Github block
-Show how to get part of WordPress Core, change 
+Show how to get part of WordPress Core, change and create a pull request.
+- Word is mispelled in core..?
 
-## Custom Content Block
+## Contributing to Core block
+Show how to get part of WordPress Core, change and create a pull request.
+- Word is mispelled in core..?
+- See [CONTRIBUTING](./CONTRIBUTING.md) for notes on starting point
+
+## Custom Post Type Block
 Save a post with custom post types
 
-## Music Quote block
-Quote, Band Name, Link to song/video etc
-Affiliate links
+## Using Custom Fields with a block
+- Open Github Issue in Gutenberg: Custom fields 🔗 Blocks [#51373](https://github.com/WordPress/gutenberg/issues/51373) 
 
+## Music Quote block
+- Quote, Band Name, Link to song/video etc
+- Song embed
+- Affiliate links
+
+## Figma embed block

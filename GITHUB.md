@@ -36,6 +36,12 @@ Also because it is built by Atlassan which is a front-runner in the SDLC SaaS in
 On the command-line, improve the look of your prompt when in a Git repository.
 If you set this up in your standard terminal (shell), it will transfer to VS Code or another IDE.
 
+## Benefits 
+- Show active branch
+- Is branch dirty?
+- How many commits ahead?
+- How to install this prompt
+
 # Agnoster theme for Oh My Zsh
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
 [Agnoster theme on github](https://github.com/agnoster/agnoster-zsh-theme)
@@ -43,10 +49,6 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
 ---- How to do this???
 https://inspirnathan.com/posts/22-install-ohmyzsh-with-agnoster-theme/
 
-- Show active branch
-- Is branch dirty?
-- How many commits ahead?
-- How to install this prompt
 
 
 # Extras / Notes
