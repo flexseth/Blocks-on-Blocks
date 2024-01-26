@@ -13,6 +13,7 @@ Block Plugins...
 - Create a PDF from block(s)
 - Gravity Forms focus on singular input
 - [Create a Custom Block Editor](https://developer.wordpress.org/block-editor/how-to-guides/platform/custom-block-editor/)
+- [Add icons to button blocks](https://github.com/ndiego/enable-button-icons) (by Nick Diego) 
 
 
 ## Design Block Plugin - Examples
