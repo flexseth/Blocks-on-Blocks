@@ -19,6 +19,7 @@ Feature block plugins modify the business logic of a block.
 ## Design Block Plugin - Examples
 Feature block plugins modify the look or presentation of a block.
 
+- Better [mobile menus](https://twitter.com/remkusdevries/status/1750810307092459643) for Outlander theme (WP.com) - [before]()
 - Skins: Easily change the look of the WP comment form
 - [Display image metadata](./feature/extraction/metadata-from-image/README.md) (EXIF) on attachment page
 - Insert External link button for RichText editor - [Storybook](https://wordpress.github.io/gutenberg/?path=/docs/components-externallink--docs) 
