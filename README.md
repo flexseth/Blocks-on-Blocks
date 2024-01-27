@@ -95,6 +95,7 @@ Log all activity that comes into the console to this page, in an easy to read fo
 
 ## Error block
 Shows JavaScript errors on the page. Inspired by the convo on Twitch.
+![Frontend Error Block](images/frontend-error-log.png)
 
 Uses the console logger block to function (innerblocks?)
 
