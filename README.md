@@ -173,17 +173,14 @@ https://www.icloud.com/notes/08bFoVDbx3KzyjGmUZYjXQESg
 ## Block Hooks?
 for Twitter Sharer - end of post...?
 Remove text from "X" (Twitter) share button using Block Hooks
-Remove text from "X" (Twitter) share button using Block Hooks
 
 ## Multiple Blocks Plugin Boilerplate
 A starting point for creating 3 blocks with the standard scripts, and instructions.
-- Good first commit for Seth
+- Good first commit
 - Multiple Blocks 
 https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
 - 12 minutes in
-Multiple Blocks 
-https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
-12 minutes in
+
 
 ## Slotfill Examples
 - Bingo card
@@ -193,8 +190,7 @@ https://youtu.be/qbMUU6eNkd4?si=IHCLtXannsJzRmTr&t=1438
 ### Simple Slot Machine
 - Showcases how to use animations
 - Showcases slot fill
-- Showcases how to 
-
+- Showcases how to use logic (matrices) to figure out if the pull is a winner
 
 
 ## Why to use a static or dynamic block
@@ -209,6 +205,7 @@ Show how to get part of WordPress Core, change and create a pull request.
 Show how to get part of WordPress Core, change and create a pull request.
 - Word is mispelled in core..?
 - See [CONTRIBUTING](./CONTRIBUTING.md) for notes on starting point
+- Show steps, perform plugin and block checks
 
 ## Custom Post Type Block
 Save a post with custom post types
@@ -219,6 +216,6 @@ Save a post with custom post types
 ## Music Quote block
 - Quote, Band Name, Link to song/video etc
 - Song embed
-- Affiliate links
+- Affiliate links -  
 
 ## Figma embed block
