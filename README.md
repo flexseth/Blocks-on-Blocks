@@ -19,9 +19,9 @@ block development
 
 [PLUGINS](./PLUGINS.md)
 
-BLOCKS
+BLOCKS (TODO)
 
-Using Git with this repo
+[Using Git with this repo](./GITHUB.md)
 
 [CONTRIBUTING](./CONTRIBUTING.md)
 
