@@ -71,7 +71,6 @@ This README file is made to link to the various projects and to provide directio
   <summary>Hero with WordPress Form</summary>
   
   Popular amongst signup websites. Great for non-profit organizations, lead generation, the example is for a past political candidate. 
-- *TODO*: upload Image of lumberjack
 ![image](./images/duffy.png)
 </details>
 
