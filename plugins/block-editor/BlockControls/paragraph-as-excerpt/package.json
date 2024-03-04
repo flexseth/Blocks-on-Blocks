@@ -1,0 +1,30 @@
+{
+  "name": "paragraph-as-excerpt",
+  "version": "1.0.0",
+  "description": "Add a paragraph block as the Post or Page Excerpt.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexseth/Blocks-on-Blocks/plugins/block-editor/BlockControls/paragraph-as-excerpt"
+  },
+  "keywords": [
+    "paragraph",
+    "block",
+    "BlockControls",
+    "post",
+    "page",
+    "excerpt",
+    "automation",
+    "content"
+  ],
+  "author": "Seth Miller",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "^27.3.0"
+  }
+}
